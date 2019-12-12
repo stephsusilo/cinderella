@@ -1,6 +1,8 @@
 # Cinderella
 Project for CMSI 185
+
 "A Cinderella Story" by Stephanie Susilo
+
 The purpose of this chaser game is to help Cinderella avoid her evil stepsisters (the enemies).
 
 https://codepen.io/ssusilo/pen/QWWZXOy
