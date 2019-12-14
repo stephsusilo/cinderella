@@ -7,7 +7,7 @@ The purpose of this chaser game is to help Cinderella avoid her evil stepsisters
 
 https://codepen.io/ssusilo/pen/QWWZXOy
 
-Game Components
+Game Features
 * Player sprite: 
 * Enemy sprite: Three enemies are created at the start of the game. 
 * Scarecrow: Scarecrows can be set to distract the enemies for 5 seconds. No new scarecrows can be set while one scarecrow is still alive.
