@@ -2,7 +2,7 @@
 
 Project for CMSI 185
 
-“A Cinderella Story”
+“A Cinderella Story” by Stephanie Susilo
 
 https://codepen.io/ssusilo/pen/QWWZXOy
 
@@ -17,5 +17,3 @@ Game Features
 
 Game Controls
 - Control Cinderella’s movement by using the mouse to guide her
-
-Created by Stephanie Susilo
