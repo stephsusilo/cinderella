@@ -1,17 +1,21 @@
 # Cinderella
+
 Project for CMSI 185
 
-"A Cinderella Story" by Stephanie Susilo
-
-The purpose of this chaser game is to help Cinderella avoid her evil stepsisters (the enemies).
+“A Cinderella Story”
 
 https://codepen.io/ssusilo/pen/QWWZXOy
 
+Help Cinderella get to the ball! Guide her down the stairs and help her run away from her three evil stepsisters in this Cinderella-themed chaser game! Don’t let the sisters get to Cinderella as her health (displayed on the progress bar) will decrease. Once her health reaches zero, the game ends. 
+
 Game Features
-* Player sprite: 
-* Enemy sprite: Three enemies are created at the start of the game. 
-* Scarecrow: Scarecrows can be set to distract the enemies for 5 seconds. No new scarecrows can be set while one scarecrow is still alive.
-* Music: "" loops as the game plays and ends when the game stops.
+- Player sprite: Cinderella’s movement is controlled by the cursor. 
+- Enemy sprite: Three evil enemies are created at the start of play with locations and speeds set randomly.
+- Scarecrow: Click anywhere on the canvas to set a glass slipper “scarecrow” to distract Cinderella’s evil step sisters. They will move towards the scarecrow for 5 seconds. During this time, no new scarecrows can be set.
+- Health: The progress bar is set at 100 at the start of play and will decrease by 1 point each time Cinderella collides with the enemy.
+- Music: Setting a scarecrow will trigger a twinkling sound and set off the background music of “Bibbidi Bobbidi Boo”.
 
 Game Controls
-* Control Cinderella's movement by using the mouse to guide her
+- Control Cinderella’s movement by using the mouse to guide her
+
+Created by Stephanie Susilo
