@@ -4,8 +4,9 @@ Project for CMSI 185
 
 “A Cinderella Story” by Stephanie Susilo
 
-https://codepen.io/ssusilo/pen/QWWZXOy 
-https://stephsusilo.github.io/cinderella/
+https://codepen.io/ssusilo/pen/QWWZXOy 
+
+https://stephsusilo.github.io/cinderella/ 
 
 Help Cinderella get to the ball! Guide her down the stairs and help her run away from her three evil stepsisters in this Cinderella-themed chaser game! Don’t let the sisters get to Cinderella as her health (displayed on the progress bar) will decrease. Once her health reaches zero, the game ends.
 
